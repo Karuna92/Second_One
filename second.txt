@@ -3,4 +3,3 @@ hello
 welcome to learning world
 am i right way
 is it okay
-yes its fine
